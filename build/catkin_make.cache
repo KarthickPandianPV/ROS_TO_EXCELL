@@ -1,0 +1,2 @@
+data_logger
+-DCATKIN_DEVEL_PREFIX=/home/karthick/ROS_TO_EXCELL/devel -DCMAKE_INSTALL_PREFIX=/home/karthick/ROS_TO_EXCELL/install -G Unix Makefiles
